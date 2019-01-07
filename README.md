@@ -1,5 +1,5 @@
 # Daniel's Chrome Extension
-This is a Chrome extension that I built for my husband. It's a hub that houses important links for him
+This is a Chrome extension that I built for my husband. It's a hub that houses important links that he uses at work.
 
 The extension can be added to Chrome by visiting <a href="https://chrome.google.com/webstore/detail/daniels-chrome-extension/ajfbjjjhbenfjplpphfnfnikijaebfmg?authuser=1" target="_blank" rel="noopener">the Chrome WebStore</a>. 
 
